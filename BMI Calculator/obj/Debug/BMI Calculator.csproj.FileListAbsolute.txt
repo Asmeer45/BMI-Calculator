@@ -1,0 +1,11 @@
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.AssemblyReference.cache
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Asna Ameen\Desktop\1year 1st semester notes\Visual Application Programming\VS Practical\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
